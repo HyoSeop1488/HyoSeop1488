@@ -6,8 +6,6 @@
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Hyo_Seop+%F0%9F%91%8B;Biomedical+Engineering+Student+%F0%9F%A7%AC;Competitive+Programmer+%F0%9F%8F%86;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+TypeScript;From+Yogyakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 
-<br/>
-
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=HyoSeop1488&style=for-the-badge&color=cba6f7&label=PROFILE+VIEWS&labelColor=313244"/>
 &nbsp;
@@ -55,36 +53,25 @@ me.say_hello()
 
 <div align="center">
 
-**〔 Languages 〕**
-
-![C++](https://img.shields.io/badge/C++-89b4fa?style=for-the-badge&logo=c%2B%2B&logoColor=1e1e2e)
-![C](https://img.shields.io/badge/C-89dceb?style=for-the-badge&logo=c&logoColor=1e1e2e)
-![Python](https://img.shields.io/badge/Python-f9e2af?style=for-the-badge&logo=python&logoColor=1e1e2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-f38ba8?style=for-the-badge&logo=javascript&logoColor=1e1e2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-cba6f7?style=for-the-badge&logo=typescript&logoColor=1e1e2e)
-
-**〔 Frontend 〕**
-
-![React](https://img.shields.io/badge/React-89dceb?style=for-the-badge&logo=react&logoColor=1e1e2e)
-![Next.js](https://img.shields.io/badge/Next.js-cdd6f4?style=for-the-badge&logo=next.js&logoColor=1e1e2e)
-![HTML5](https://img.shields.io/badge/HTML5-fab387?style=for-the-badge&logo=html5&logoColor=1e1e2e)
-![CSS3](https://img.shields.io/badge/CSS3-89b4fa?style=for-the-badge&logo=css3&logoColor=1e1e2e)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-94e2d5?style=for-the-badge&logo=tailwindcss&logoColor=1e1e2e)
-
-**〔 Backend & Database 〕**
-
-![Node.js](https://img.shields.io/badge/Node.js-a6e3a1?style=for-the-badge&logo=node.js&logoColor=1e1e2e)
-![Express](https://img.shields.io/badge/Express-cdd6f4?style=for-the-badge&logo=express&logoColor=1e1e2e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-89b4fa?style=for-the-badge&logo=postgresql&logoColor=1e1e2e)
-![MySQL](https://img.shields.io/badge/MySQL-89dceb?style=for-the-badge&logo=mysql&logoColor=1e1e2e)
-![SQLite](https://img.shields.io/badge/SQLite-94e2d5?style=for-the-badge&logo=sqlite&logoColor=1e1e2e)
-
-**〔 Tools & Platforms 〕**
-
-![Git](https://img.shields.io/badge/Git-f38ba8?style=for-the-badge&logo=git&logoColor=1e1e2e)
-![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=for-the-badge&logo=github&logoColor=1e1e2e)
-![VS Code](https://img.shields.io/badge/VS%20Code-89b4fa?style=for-the-badge&logo=visual-studio-code&logoColor=1e1e2e)
-![Linux](https://img.shields.io/badge/Linux-f9e2af?style=for-the-badge&logo=linux&logoColor=1e1e2e)
+![C++](https://img.shields.io/badge/C++-89b4fa?style=flat-square&logo=c%2B%2B&logoColor=1e1e2e)
+![C](https://img.shields.io/badge/C-89dceb?style=flat-square&logo=c&logoColor=1e1e2e)
+![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-f38ba8?style=flat-square&logo=javascript&logoColor=1e1e2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-cba6f7?style=flat-square&logo=typescript&logoColor=1e1e2e)
+![React](https://img.shields.io/badge/React-89dceb?style=flat-square&logo=react&logoColor=1e1e2e)
+![Next.js](https://img.shields.io/badge/Next.js-cdd6f4?style=flat-square&logo=next.js&logoColor=1e1e2e)
+![HTML5](https://img.shields.io/badge/HTML5-fab387?style=flat-square&logo=html5&logoColor=1e1e2e)
+![CSS3](https://img.shields.io/badge/CSS3-89b4fa?style=flat-square&logo=css3&logoColor=1e1e2e)
+![Tailwind](https://img.shields.io/badge/Tailwind-94e2d5?style=flat-square&logo=tailwindcss&logoColor=1e1e2e)
+![Node.js](https://img.shields.io/badge/Node.js-a6e3a1?style=flat-square&logo=node.js&logoColor=1e1e2e)
+![Express](https://img.shields.io/badge/Express-cdd6f4?style=flat-square&logo=express&logoColor=1e1e2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-89b4fa?style=flat-square&logo=postgresql&logoColor=1e1e2e)
+![MySQL](https://img.shields.io/badge/MySQL-89dceb?style=flat-square&logo=mysql&logoColor=1e1e2e)
+![SQLite](https://img.shields.io/badge/SQLite-94e2d5?style=flat-square&logo=sqlite&logoColor=1e1e2e)
+![Git](https://img.shields.io/badge/Git-f38ba8?style=flat-square&logo=git&logoColor=1e1e2e)
+![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)
+![VS Code](https://img.shields.io/badge/VS%20Code-89b4fa?style=flat-square&logo=visual-studio-code&logoColor=1e1e2e)
+![Linux](https://img.shields.io/badge/Linux-f9e2af?style=flat-square&logo=linux&logoColor=1e1e2e)
 
 </div>
 
@@ -97,9 +84,7 @@ me.say_hello()
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HyoSeop1488&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&rank_icon=github&border_radius=10"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoSeop1488&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=cba6f7&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7&border_radius=10"/>
 
-<br/>
-
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSeop1488&layout=donut&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=10&langs_count=8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSeop1488&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=10&langs_count=6"/>
 
 </div>
 
@@ -158,8 +143,6 @@ me.say_hello()
 [![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=for-the-badge&logo=github&logoColor=1e1e2e&labelColor=313244)](https://github.com/HyoSeop1488)
 
 </div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,40:313244,70:cba6f7,100:1e1e2e&height=130&section=footer&fontSize=20&fontColor=cdd6f4&animation=twinkling&text=Thanks%20for%20visiting!%20%F0%9F%8C%B8&fontAlignY=65"/>
 
