@@ -11,33 +11,19 @@
 
 ## 🧬 About Me
 
-```python
-# ╔══════════════════════════════════════════════════════╗
-# ║              Hyo_Seop.py  —  v1.0.0                 ║
-# ╚══════════════════════════════════════════════════════╝
+<div align="center">
 
-class HyoSeop:
-    def __init__(self):
-        self.name       = "Hyo_Seop"
-        self.username   = "HyoSeop1488"
-        self.location   = "Yogyakarta, Indonesia 🇮🇩"
-        self.education  = "Biomedical Engineering Student 🧬"
-        self.interests  = [
-            "Competitive Programming 🏆",
-            "Algorithms & Data Structures",
-            "Web Development 🌐",
-            "Biomedical Technology 💉",
-        ]
-        self.stack      = ["C++", "Python", "JavaScript", "TypeScript"]
-        self.currently  = "Grinding Codeforces & LeetCode 💪"
-        self.fun_fact   = "I debug code like I debug life — one error at a time 🐛"
+| | |
+|:---|:---|
+| 🎓 | Biomedical Engineering Student |
+| 🏆 | Competitive Programmer |
+| 📍 | Yogyakarta, Indonesia |
+| 💻 | C++ · Python · JavaScript · TypeScript |
+| 🔥 | Grinding Codeforces & LeetCode |
+| 🧬 | Interested in Algorithms, Web Dev & Biomedical Tech |
+| 🐛 | *"I debug code like I debug life — one error at a time"* |
 
-    def say_hello(self):
-        print("Thanks for stopping by! Let's build something amazing 🚀")
-
-me = HyoSeop()
-me.say_hello()
-```
+</div>
 
 ---
 
@@ -46,24 +32,11 @@ me.say_hello()
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-89b4fa?style=flat-square&logo=c%2B%2B&logoColor=1e1e2e)
-![C](https://img.shields.io/badge/C-89dceb?style=flat-square&logo=c&logoColor=1e1e2e)
 ![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-f38ba8?style=flat-square&logo=javascript&logoColor=1e1e2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-cba6f7?style=flat-square&logo=typescript&logoColor=1e1e2e)
-![React](https://img.shields.io/badge/React-89dceb?style=flat-square&logo=react&logoColor=1e1e2e)
-![Next.js](https://img.shields.io/badge/Next.js-cdd6f4?style=flat-square&logo=next.js&logoColor=1e1e2e)
-![HTML5](https://img.shields.io/badge/HTML5-fab387?style=flat-square&logo=html5&logoColor=1e1e2e)
-![CSS3](https://img.shields.io/badge/CSS3-89b4fa?style=flat-square&logo=css3&logoColor=1e1e2e)
-![Tailwind](https://img.shields.io/badge/Tailwind-94e2d5?style=flat-square&logo=tailwindcss&logoColor=1e1e2e)
-![Node.js](https://img.shields.io/badge/Node.js-a6e3a1?style=flat-square&logo=node.js&logoColor=1e1e2e)
-![Express](https://img.shields.io/badge/Express-cdd6f4?style=flat-square&logo=express&logoColor=1e1e2e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-89b4fa?style=flat-square&logo=postgresql&logoColor=1e1e2e)
 ![MySQL](https://img.shields.io/badge/MySQL-89dceb?style=flat-square&logo=mysql&logoColor=1e1e2e)
-![SQLite](https://img.shields.io/badge/SQLite-94e2d5?style=flat-square&logo=sqlite&logoColor=1e1e2e)
 ![Git](https://img.shields.io/badge/Git-f38ba8?style=flat-square&logo=git&logoColor=1e1e2e)
 ![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)
 ![VS Code](https://img.shields.io/badge/VS%20Code-89b4fa?style=flat-square&logo=visual-studio-code&logoColor=1e1e2e)
-![Linux](https://img.shields.io/badge/Linux-f9e2af?style=flat-square&logo=linux&logoColor=1e1e2e)
 
 </div>
 
