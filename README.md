@@ -11,19 +11,29 @@
 
 ## 🧬 About Me
 
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top" style="padding-right:16px;">
 
 | | |
-|:---|:---|
+|:---:|:---|
 | 🎓 | Biomedical Engineering Student |
 | 🏆 | Competitive Programmer |
 | 📍 | Yogyakarta, Indonesia |
 | 💻 | C++ · Python · JavaScript · TypeScript |
-| 🔥 | Grinding Codeforces & LeetCode |
-| 🧬 | Interested in Algorithms, Web Dev & Biomedical Tech |
-| 🐛 | *"I debug code like I debug life — one error at a time"* |
 
-</div>
+</td>
+<td width="50%" valign="top" style="padding-left:16px;">
+
+| | |
+|:---:|:---|
+| 🔥 | Grinding Codeforces & LeetCode |
+| 🧬 | Algorithms · Web Dev · Biomedical Tech |
+| 🐛 | *"I debug code like I debug life"* |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -44,11 +54,12 @@
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HyoSeop1488&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&rank_icon=github&border_radius=10"/>
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoSeop1488&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HyoSeop1488&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&rank_icon=github&border_radius=10"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoSeop1488&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7&border_radius=10"/>
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSeop1488&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=10&langs_count=8"/>
-<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=HyoSeop1488&bg_color=1e1e2e&color=a6adc8&line=cba6f7&point=cba6f7&area=true&area_color=313244&hide_border=true&radius=6&height=195"/>
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=HyoSeop1488&bg_color=1e1e2e&color=a6adc8&line=cba6f7&point=cba6f7&area=true&area_color=313244&hide_border=true&radius=6"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSeop1488&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=10&langs_count=8"/>
 
 </div>
 
@@ -60,7 +71,7 @@
 
 <td width="50%" align="center" valign="middle" style="padding:28px 24px;">
 
-<sup>C O M P E T I T I V E &nbsp; P R O G R A M M I N G</sup>
+<sub>⚔ &nbsp; C O M P E T I T I V E &nbsp; P R O G R A M M I N G &nbsp; ⚔</sub>
 
 <br/><br/>
 
@@ -80,7 +91,7 @@
 
 <td width="50%" align="center" valign="middle" style="padding:28px 24px;">
 
-<sup>C O N N E C T</sup>
+<sub>🌐 &nbsp; C O N N E C T &nbsp; 🌐</sub>
 
 <br/><br/>
 
@@ -106,8 +117,6 @@
 </table>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,40:313244,70:cba6f7,100:1e1e2e&height=130&section=footer&fontSize=20&fontColor=cdd6f4&animation=twinkling&text=Thanks%20for%20visiting!%20%F0%9F%8C%B8&fontAlignY=65"/>
+<br/>
 
-<div align="center">
-  <sub><i>"First, solve the problem. Then, write the code." — John Johnson</i></sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,40:313244,70:cba6f7,100:1e1e2e&height=120&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=16&fontColor=6c7086&fontAlignY=65"/>
