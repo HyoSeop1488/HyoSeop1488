@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner - Catppuccin Mocha palette -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,30:313244,60:cba6f7,100:1e1e2e&height=220&section=header&text=Hyo_Seop&fontSize=75&fontColor=cdd6f4&animation=twinkling&fontAlignY=38&desc=Biomedical%20Engineering%20Student%20%7C%20Competitive%20Programmer&descAlignY=58&descColor=a6adc8&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,30:313244,60:cba6f7,100:1e1e2e&height=220&section=header&text=Hyo_Seop&fontSize=60&fontColor=cdd6f4&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Biomedical%20Engineering%20Student%20%7C%20Competitive%20Programmer&descAlignY=58&descColor=6c7086&descSize=16"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Hyo_Seop+%F0%9F%91%8B;Biomedical+Engineering+Student+%F0%9F%A7%AC;Competitive+Programmer+%F0%9F%8F%86;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+TypeScript;From+Yogyakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
