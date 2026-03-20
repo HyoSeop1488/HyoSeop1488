@@ -35,7 +35,6 @@
 ![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e)
 ![Git](https://img.shields.io/badge/Git-f38ba8?style=flat-square&logo=git&logoColor=1e1e2e)
 ![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)
-![VS Code](https://img.shields.io/badge/VS%20Code-89b4fa?style=flat-square&logo=visual-studio-code&logoColor=1e1e2e)
 
 </div>
 
@@ -56,40 +55,44 @@
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
+<table width="100%" border="0" cellspacing="0" cellpadding="24">
 <tr>
 <td width="50%" align="center" valign="middle">
 
-**🏅 Competitive Programming**
+<sub>COMPETITIVE PROGRAMMING</sub>
 
-<br/>
+<br/><br/>
 
 <a href="https://codeforces.com/profile/HyoSeop1488">
-  <img src="https://img.shields.io/badge/Codeforces-%20HyoSeop1488-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e"/>
+  <img height="28" src="https://img.shields.io/badge/Codeforces-HyoSeop1488-89b4fa?style=flat-square&logo=codeforces&logoColor=89b4fa&labelColor=181825"/>
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/HyoSeop1488">
-  <img src="https://img.shields.io/badge/LeetCode-%20HyoSeop1488-FFA116?style=for-the-badge&logo=leetcode&logoColor=1e1e2e&labelColor=1a1a2e"/>
+  <img height="28" src="https://img.shields.io/badge/LeetCode-HyoSeop1488-f9e2af?style=flat-square&logo=leetcode&logoColor=f9e2af&labelColor=181825"/>
 </a>
 
 </td>
+<td width="1" bgcolor="#313244"></td>
 <td width="50%" align="center" valign="middle">
 
-**🌐 Connect With Me**
+<sub>CONNECT</sub>
 
-<br/>
+<br/><br/>
 
-<a href="https://linkedin.com/in/HyoSeop1488">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://instagram.com/HyoSeop1488">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="mailto:hyoseop1488@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-</a>
 <a href="https://github.com/HyoSeop1488">
-  <img src="https://img.shields.io/badge/GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=1e1e2e&labelColor=1a1a2e"/>
+  <img height="28" src="https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=cdd6f4&labelColor=181825"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/HyoSeop1488">
+  <img height="28" src="https://img.shields.io/badge/LinkedIn-89b4fa?style=flat-square&logo=linkedin&logoColor=89b4fa&labelColor=181825"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/HyoSeop1488">
+  <img height="28" src="https://img.shields.io/badge/Instagram-f38ba8?style=flat-square&logo=instagram&logoColor=f38ba8&labelColor=181825"/>
+</a>
+&nbsp;
+<a href="mailto:hyoseop1488@gmail.com">
+  <img height="28" src="https://img.shields.io/badge/Gmail-f38ba8?style=flat-square&logo=gmail&logoColor=f38ba8&labelColor=181825"/>
 </a>
 
 </td>
