@@ -55,23 +55,35 @@
 
 ---
 
-## 🏅 Competitive Programming &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Connect
+<table width="100%"><tr>
+<td width="50%" align="center">
 
-<div align="center">
+### 🏅 Competitive Programming
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-HyoSeop1488-89b4fa?style=social&logo=codeforces&logoColor=89b4fa&labelColor=313244)](https://codeforces.com/profile/HyoSeop1488)
+[![Codeforces](https://img.shields.io/badge/Codeforces-HyoSeop1488-89b4fa?style=social&logo=codeforces&logoColor=89b4fa)](https://codeforces.com/profile/HyoSeop1488)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-HyoSeop1488-f9e2af?style=social&logo=leetcode&logoColor=f9e2af&labelColor=313244)](https://leetcode.com/HyoSeop1488)
-&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-89b4fa?style=social&logo=linkedin&logoColor=89b4fa&labelColor=313244)](https://linkedin.com/in/HyoSeop1488)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-f38ba8?style=social&logo=instagram&logoColor=f38ba8&labelColor=313244)](https://instagram.com/HyoSeop1488)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=social&logo=gmail&logoColor=f38ba8&labelColor=313244)](mailto:hyoseop1488@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=social&logo=github&logoColor=cdd6f4&labelColor=313244)](https://github.com/HyoSeop1488)
+[![LeetCode](https://img.shields.io/badge/LeetCode-HyoSeop1488-f9e2af?style=social&logo=leetcode&logoColor=f9e2af)](https://leetcode.com/HyoSeop1488)
 
-</div>
+</td>
+<td width="1%" align="center">
+
+![divider](https://img.shields.io/badge/-%7C-313244?style=flat-square)
+
+</td>
+<td width="49%" align="center">
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-89b4fa?style=social&logo=linkedin&logoColor=89b4fa)](https://linkedin.com/in/HyoSeop1488)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-f38ba8?style=social&logo=instagram&logoColor=f38ba8)](https://instagram.com/HyoSeop1488)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=social&logo=gmail&logoColor=f38ba8)](mailto:hyoseop1488@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=social&logo=github&logoColor=cdd6f4)](https://github.com/HyoSeop1488)
+
+</td>
+</tr></table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,40:313244,70:cba6f7,100:1e1e2e&height=130&section=footer&fontSize=20&fontColor=cdd6f4&animation=twinkling&text=Thanks%20for%20visiting!%20%F0%9F%8C%B8&fontAlignY=65"/>
 
