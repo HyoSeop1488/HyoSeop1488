@@ -32,9 +32,7 @@
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-89b4fa?style=flat-square&logo=c%2B%2B&logoColor=1e1e2e)
-![C](https://img.shields.io/badge/C-89dceb?style=flat-square&logo=c&logoColor=1e1e2e)
 ![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-f38ba8?style=flat-square&logo=javascript&logoColor=1e1e2e)
 ![Git](https://img.shields.io/badge/Git-f38ba8?style=flat-square&logo=git&logoColor=1e1e2e)
 ![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)
 
@@ -57,49 +55,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HyoSeop1488&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HyoSeop1488/HyoSeop1488/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HyoSeop1488/HyoSeop1488/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HyoSeop1488/HyoSeop1488/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
-
----
-
-## 🏅 Competitive Programming
+## 🏅 Competitive Programming & Connect
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-HyoSeop1488-89b4fa?style=for-the-badge&logo=codeforces&logoColor=1e1e2e&labelColor=313244)](https://codeforces.com/profile/HyoSeop1488)
-&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-HyoSeop1488-f9e2af?style=for-the-badge&logo=leetcode&logoColor=1e1e2e&labelColor=313244)](https://leetcode.com/HyoSeop1488)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=1e1e2e&labelColor=313244)](https://linkedin.com/in/HyoSeop1488)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-f38ba8?style=for-the-badge&logo=instagram&logoColor=1e1e2e&labelColor=313244)](https://instagram.com/HyoSeop1488)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e&labelColor=313244)](mailto:hyoseop1488@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=for-the-badge&logo=github&logoColor=1e1e2e&labelColor=313244)](https://github.com/HyoSeop1488)
+[![Codeforces](https://img.shields.io/badge/Codeforces-HyoSeop1488-89b4fa?style=flat-square&logo=codeforces&logoColor=1e1e2e&labelColor=313244)](https://codeforces.com/profile/HyoSeop1488)
+[![LeetCode](https://img.shields.io/badge/LeetCode-HyoSeop1488-f9e2af?style=flat-square&logo=leetcode&logoColor=1e1e2e&labelColor=313244)](https://leetcode.com/HyoSeop1488)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e&labelColor=313244)](https://linkedin.com/in/HyoSeop1488)
+[![Instagram](https://img.shields.io/badge/Instagram-f38ba8?style=flat-square&logo=instagram&logoColor=1e1e2e&labelColor=313244)](https://instagram.com/HyoSeop1488)
+[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=flat-square&logo=gmail&logoColor=1e1e2e&labelColor=313244)](mailto:hyoseop1488@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e&labelColor=313244)](https://github.com/HyoSeop1488)
 
 </div>
 
