@@ -1,17 +1,9 @@
 <div align="center">
 
-<!-- Animated Header Banner - Catppuccin Mocha palette -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,30:313244,60:cba6f7,100:1e1e2e&height=220&section=header&text=Hyo_Seop&fontSize=60&fontColor=cdd6f4&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Biomedical%20Engineering%20Student%20%7C%20Competitive%20Programmer&descAlignY=58&descColor=6c7086&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,30:313244,60:cba6f7,100:1e1e2e&height=180&section=header&text=Hyo_Seop&fontSize=55&fontColor=cdd6f4&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Biomedical%20Engineering%20%7C%20Competitive%20Programmer%20%7C%20Yogyakarta%2C%20Indonesia&descAlignY=62&descColor=6c7086&descSize=14"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Hyo_Seop+%F0%9F%91%8B;Biomedical+Engineering+Student+%F0%9F%A7%AC;Competitive+Programmer+%F0%9F%8F%86;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+TypeScript;From+Yogyakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=HyoSeop1488&style=for-the-badge&color=cba6f7&label=PROFILE+VIEWS&labelColor=313244"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/HyoSeop1488?style=for-the-badge&color=89b4fa&labelColor=313244&logo=github&label=FOLLOWERS"/>
-
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=HyoSeop1488&style=flat-square&color=cba6f7&label=views&labelColor=313244"/>
+<img src="https://img.shields.io/github/followers/HyoSeop1488?style=flat-square&color=89b4fa&labelColor=313244&logo=github&label=followers"/>
 
 </div>
 
