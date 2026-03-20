@@ -47,53 +47,60 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HyoSeop1488&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&rank_icon=github&border_radius=10"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoSeop1488&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=cba6f7&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7&border_radius=10"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HyoSeop1488&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f38ba8&area=true&area_color=313244&hide_border=true&radius=8"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSeop1488&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=10&langs_count=8&card_width=445"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSeop1488&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=10&langs_count=8"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=HyoSeop1488&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f38ba8&area=true&area_color=313244&hide_border=true&radius=8&height=195"/>
 
 </div>
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="24">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" style="padding: 20px;">
 
-<sub>COMPETITIVE PROGRAMMING</sub>
+<picture>
+  <img src="https://img.shields.io/badge/━━━━%20Competitive%20Programming%20━━━━-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7"/>
+</picture>
 
 <br/><br/>
 
 <a href="https://codeforces.com/profile/HyoSeop1488">
-  <img height="28" src="https://img.shields.io/badge/Codeforces-HyoSeop1488-89b4fa?style=flat-square&logo=codeforces&logoColor=89b4fa&labelColor=181825"/>
+  <img src="https://img.shields.io/badge/Codeforces-HyoSeop1488-181825?style=flat-square&logo=codeforces&logoColor=89b4fa&color=181825"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://leetcode.com/HyoSeop1488">
-  <img height="28" src="https://img.shields.io/badge/LeetCode-HyoSeop1488-f9e2af?style=flat-square&logo=leetcode&logoColor=f9e2af&labelColor=181825"/>
+  <img src="https://img.shields.io/badge/LeetCode-HyoSeop1488-181825?style=flat-square&logo=leetcode&logoColor=f9e2af&color=181825"/>
 </a>
+
+<br/>
 
 </td>
-<td width="1" bgcolor="#313244"></td>
-<td width="50%" align="center" valign="middle">
+<td width="1px" bgcolor="#45475a" style="padding:0;">&nbsp;</td>
+<td width="50%" align="center" style="padding: 20px;">
 
-<sub>CONNECT</sub>
+<picture>
+  <img src="https://img.shields.io/badge/━━━━━━%20Connect%20━━━━━━-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7"/>
+</picture>
 
 <br/><br/>
 
 <a href="https://github.com/HyoSeop1488">
-  <img height="28" src="https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=cdd6f4&labelColor=181825"/>
+  <img src="https://img.shields.io/badge/GitHub-181825?style=flat-square&logo=github&logoColor=cdd6f4"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/HyoSeop1488">
-  <img height="28" src="https://img.shields.io/badge/LinkedIn-89b4fa?style=flat-square&logo=linkedin&logoColor=89b4fa&labelColor=181825"/>
+  <img src="https://img.shields.io/badge/LinkedIn-181825?style=flat-square&logo=linkedin&logoColor=89b4fa"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/HyoSeop1488">
-  <img height="28" src="https://img.shields.io/badge/Instagram-f38ba8?style=flat-square&logo=instagram&logoColor=f38ba8&labelColor=181825"/>
+  <img src="https://img.shields.io/badge/Instagram-181825?style=flat-square&logo=instagram&logoColor=f38ba8"/>
 </a>
 &nbsp;
 <a href="mailto:hyoseop1488@gmail.com">
-  <img height="28" src="https://img.shields.io/badge/Gmail-f38ba8?style=flat-square&logo=gmail&logoColor=f38ba8&labelColor=181825"/>
+  <img src="https://img.shields.io/badge/Gmail-181825?style=flat-square&logo=gmail&logoColor=f38ba8"/>
 </a>
+
+<br/>
 
 </td>
 </tr>
