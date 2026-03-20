@@ -36,8 +36,6 @@
 ![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e)
 ![Git](https://img.shields.io/badge/Git-f38ba8?style=flat-square&logo=git&logoColor=1e1e2e)
 ![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)
-![VS Code](https://img.shields.io/badge/VS%20Code-89b4fa?style=flat-square&logo=visual-studio-code&logoColor=1e1e2e)
-![Linux](https://img.shields.io/badge/Linux-f9e2af?style=flat-square&logo=linux&logoColor=1e1e2e)
 
 </div>
 
@@ -47,11 +45,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HyoSeop1488&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&rank_icon=github&border_radius=10"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoSeop1488&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=cba6f7&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7&border_radius=10"/>
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSeop1488&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=10&langs_count=6"/>
+<img width="33%" src="https://github-readme-stats.vercel.app/api?username=HyoSeop1488&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&rank_icon=github&border_radius=10&hide=contribs"/>
+<img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=HyoSeop1488&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=cba6f7&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7&border_radius=10"/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyoSeop1488&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=10&langs_count=6"/>
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=HyoSeop1488&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f38ba8&area=true&area_color=313244&hide_border=true&radius=8"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HyoSeop1488&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f38ba8&area=true&area_color=313244&hide_border=true&radius=8"/>
 
 </div>
 
