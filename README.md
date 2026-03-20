@@ -55,16 +55,21 @@
 
 ---
 
-## 🏅 Competitive Programming & Connect
+## 🏅 Competitive Programming &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Connect
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-HyoSeop1488-89b4fa?style=flat-square&logo=codeforces&logoColor=1e1e2e&labelColor=313244)](https://codeforces.com/profile/HyoSeop1488)
-[![LeetCode](https://img.shields.io/badge/LeetCode-HyoSeop1488-f9e2af?style=flat-square&logo=leetcode&logoColor=1e1e2e&labelColor=313244)](https://leetcode.com/HyoSeop1488)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-89b4fa?style=flat-square&logo=linkedin&logoColor=1e1e2e&labelColor=313244)](https://linkedin.com/in/HyoSeop1488)
-[![Instagram](https://img.shields.io/badge/Instagram-f38ba8?style=flat-square&logo=instagram&logoColor=1e1e2e&labelColor=313244)](https://instagram.com/HyoSeop1488)
-[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=flat-square&logo=gmail&logoColor=1e1e2e&labelColor=313244)](mailto:hyoseop1488@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e&labelColor=313244)](https://github.com/HyoSeop1488)
+[![Codeforces](https://img.shields.io/badge/Codeforces-HyoSeop1488-89b4fa?style=social&logo=codeforces&logoColor=89b4fa&labelColor=313244)](https://codeforces.com/profile/HyoSeop1488)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-HyoSeop1488-f9e2af?style=social&logo=leetcode&logoColor=f9e2af&labelColor=313244)](https://leetcode.com/HyoSeop1488)
+&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-89b4fa?style=social&logo=linkedin&logoColor=89b4fa&labelColor=313244)](https://linkedin.com/in/HyoSeop1488)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-f38ba8?style=social&logo=instagram&logoColor=f38ba8&labelColor=313244)](https://instagram.com/HyoSeop1488)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=social&logo=gmail&logoColor=f38ba8&labelColor=313244)](mailto:hyoseop1488@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=social&logo=github&logoColor=cdd6f4&labelColor=313244)](https://github.com/HyoSeop1488)
 
 </div>
 
