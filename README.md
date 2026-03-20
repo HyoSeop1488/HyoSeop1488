@@ -35,6 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e)
 ![Git](https://img.shields.io/badge/Git-f38ba8?style=flat-square&logo=git&logoColor=1e1e2e)
 ![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)
+![VS Code](https://img.shields.io/badge/VS%20Code-89b4fa?style=flat-square&logo=visual-studio-code&logoColor=1e1e2e)
 
 </div>
 
@@ -55,35 +56,45 @@
 
 ---
 
-<table width="100%"><tr>
-<td width="50%" align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td width="50%" align="center" valign="middle">
 
-### 🏅 Competitive Programming
+**🏅 Competitive Programming**
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-HyoSeop1488-89b4fa?style=social&logo=codeforces&logoColor=89b4fa)](https://codeforces.com/profile/HyoSeop1488)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-HyoSeop1488-f9e2af?style=social&logo=leetcode&logoColor=f9e2af)](https://leetcode.com/HyoSeop1488)
+<br/>
 
-</td>
-<td width="1%" align="center">
+<a href="https://codeforces.com/profile/HyoSeop1488">
+  <img src="https://img.shields.io/badge/Codeforces-%20HyoSeop1488-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e"/>
+</a>
 
-![divider](https://img.shields.io/badge/-%7C-313244?style=flat-square)
-
-</td>
-<td width="49%" align="center">
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-89b4fa?style=social&logo=linkedin&logoColor=89b4fa)](https://linkedin.com/in/HyoSeop1488)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-f38ba8?style=social&logo=instagram&logoColor=f38ba8)](https://instagram.com/HyoSeop1488)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-f38ba8?style=social&logo=gmail&logoColor=f38ba8)](mailto:hyoseop1488@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=social&logo=github&logoColor=cdd6f4)](https://github.com/HyoSeop1488)
+<a href="https://leetcode.com/HyoSeop1488">
+  <img src="https://img.shields.io/badge/LeetCode-%20HyoSeop1488-FFA116?style=for-the-badge&logo=leetcode&logoColor=1e1e2e&labelColor=1a1a2e"/>
+</a>
 
 </td>
-</tr></table>
+<td width="50%" align="center" valign="middle">
+
+**🌐 Connect With Me**
+
+<br/>
+
+<a href="https://linkedin.com/in/HyoSeop1488">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://instagram.com/HyoSeop1488">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="mailto:hyoseop1488@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://github.com/HyoSeop1488">
+  <img src="https://img.shields.io/badge/GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=1e1e2e&labelColor=1a1a2e"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,40:313244,70:cba6f7,100:1e1e2e&height=130&section=footer&fontSize=20&fontColor=cdd6f4&animation=twinkling&text=Thanks%20for%20visiting!%20%F0%9F%8C%B8&fontAlignY=65"/>
 
