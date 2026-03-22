@@ -4,7 +4,7 @@
 
 
 </div>
-## 👋 Hi, I'm Hyo Seop!
+# 👋 Hi, I'm Hyo Seop!
 
 ![Biomedical Engineer](https://img.shields.io/badge/Biomedical%20Engineer-555555?style=flat-square)
 ![Student](https://img.shields.io/badge/Student-0075ff?style=flat-square)
