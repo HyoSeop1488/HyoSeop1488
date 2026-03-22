@@ -4,14 +4,15 @@
 
 
 </div>
-## 🧬 Hyo Seop
+## 🚀 Hyo Seop
 
-![Biomedical Engineer](https://img.shields.io/badge/Biomedical%20Engineer-Student-blue?style=flat-square)
+![Biomedical Engineer](https://img.shields.io/badge/Biomedical%20Engineer-555555?style=flat-square)
+![Student](https://img.shields.io/badge/Student-0075ff?style=flat-square)
 
 I'm a biomedical engineering student, health-tech enthusiast, biology lover, and aspiring medical device developer.
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=FOLLOW&style=for-the-badge&color=0075ff)](https://github.com/yourusername)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?label=STARS&style=for-the-badge&color=ffd700)](https://github.com/yourusername)
+[![FOLLOW](https://img.shields.io/github/followers/yourusername?label=FOLLOW&style=for-the-badge&color=555555&logoColor=white)](https://github.com/yourusername)
+[![STARS](https://img.shields.io/github/stars/yourusername?label=STARS&style=for-the-badge&color=ffd700&logoColor=black)](https://github.com/yourusername?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-izzudin-yusuf-65b849373)
 
 ---
