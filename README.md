@@ -4,7 +4,7 @@
 
 
 </div>
-# 🧬 [Your Name]
+# 🧬 Hyo Seop
 
 ![Biomedical Engineer](https://img.shields.io/badge/Biomedical%20Engineer-Student-blue?style=flat-square)
 
