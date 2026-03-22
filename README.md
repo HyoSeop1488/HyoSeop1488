@@ -7,7 +7,7 @@
 
 # Hey there! 👋
 
-I'm **[Your Name]**, a Biomedical Engineering student based in **[Your City, Country]**.
+I'm **Hyo Seop**, a Biomedical Engineering student based in **Yogyakarata, Indonesia**.
 
 I design and build at the intersection of **medicine and technology**.
 
@@ -26,7 +26,7 @@ If you want to collaborate on health-tech or biomedical projects, feel free to r
 - I'm fascinated by how the human body works
 - I enjoy debugging circuits as much as debugging code
 - My favorite subject is biomedical signal processing
-- Hobbies: reading research papers, tinkering with hardware, [your hobby]
+- Hobbies: reading research papers, tinkering with hardware, undertaking any project
 
 ---
 
@@ -40,8 +40,8 @@ If you want to collaborate on health-tech or biomedical projects, feel free to r
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 youremail@example.com
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-izzudin-yusuf-65b849373))
+- 📧 mizzudinyusuf@gmail.com
 
 </td>
 
