@@ -5,7 +5,43 @@
 
 </div>
 
-## Hi there
+# Hey there! 👋
+
+I'm **[Your Name]**, a Biomedical Engineering student based in **[Your City, Country]**.
+
+I design and build at the intersection of **medicine and technology**.
+
+If a health-tech idea pops into my head, chances are I'll prototype it and ship it.
+
+My main tech stack is **Python, MATLAB, and Arduino**. My favorite tools are VS Code, Jupyter Notebook, and LTspice.
+
+I'm currently learning **signal processing, bioinformatics, and embedded systems for medical devices**.
+
+If you want to collaborate on health-tech or biomedical projects, feel free to reach out!
+
+---
+
+## 🧬 Fun Facts
+
+- I'm fascinated by how the human body works
+- I enjoy debugging circuits as much as debugging code
+- My favorite subject is biomedical signal processing
+- Hobbies: reading research papers, tinkering with hardware, [your hobby]
+
+---
+
+## 🔬 What I'm Working On
+
+- 📡 Learning biosensor design and data acquisition
+- 🧠 Exploring medical imaging and computer vision
+- 💊 Building projects that bridge engineering and healthcare
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 youremail@example.com
 
 </td>
 
