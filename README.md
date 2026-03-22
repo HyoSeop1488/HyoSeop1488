@@ -4,44 +4,44 @@
 
 
 </div>
+# 🧬 [Your Name]
 
-# Hey there! 👋
+![Biomedical Engineer](https://img.shields.io/badge/Biomedical%20Engineer-Student-blue?style=flat-square)
 
-I'm **Hyo Seop**, a Biomedical Engineering student based in **Yogyakarata, Indonesia**.
+I'm a biomedical engineering student, health-tech enthusiast, biology lover, and aspiring medical device developer.
 
-I design and build at the intersection of **medicine and technology**.
-
-If a health-tech idea pops into my head, chances are I'll prototype it and ship it.
-
-My main tech stack is **Python, MATLAB, and Arduino**. My favorite tools are VS Code, Jupyter Notebook, and LTspice.
-
-I'm currently learning **signal processing, bioinformatics, and embedded systems for medical devices**.
-
-If you want to collaborate on health-tech or biomedical projects, feel free to reach out!
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=FOLLOW&style=for-the-badge&color=0075ff)](https://github.com/yourusername)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername?label=STARS&style=for-the-badge&color=ffd700)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-izzudin-yusuf-65b849373)
 
 ---
 
-## 🧬 Fun Facts
+## 🔬 Languages and Tools
 
-- I'm fascinated by how the human body works
-- I enjoy debugging circuits as much as debugging code
-- My favorite subject is biomedical signal processing
-- Hobbies: reading research papers, tinkering with hardware, undertaking any project
-
----
-
-## 🔬 What I'm Working On
-
-- 📡 Learning biosensor design and data acquisition
-- 🧠 Exploring medical imaging and computer vision
-- 💊 Building projects that bridge engineering and healthcare
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 🧠 About Me
 
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-izzudin-yusuf-65b849373))
-- 📧 mizzudinyusuf@gmail.com
+- 🎓 Studying **Biomedical Engineering** at Universitas Gadjah Mada
+- 🔭 Currently working on **-**
+- 🌱 Currently learning **signal processing & bioinformatics**
+- 💡 Passionate about **medical devices, health tech, and biosensors**
+- 📫 Reach me at: **mizzudinyusuf@gmail.com**
+
+---
+
+## ⭐ Fun Facts
+
+- 🫀 Fascinated by how the human body works
+- 🔧 I enjoy debugging circuits as much as debugging code
+- 📚 Hobbies: reading research papers, tinkering with hardware, undertaking any projects
 
 </td>
 
