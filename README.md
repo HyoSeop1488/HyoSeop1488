@@ -4,16 +4,32 @@
 
 
 </div>
-## 🚀 Hyo Seop
+## 👋 Hi, I'm Hyo Seop!
 
 ![Biomedical Engineer](https://img.shields.io/badge/Biomedical%20Engineer-555555?style=flat-square)
 ![Student](https://img.shields.io/badge/Student-0075ff?style=flat-square)
 
-I'm a biomedical engineering student, health-tech enthusiast, biology lover, and aspiring medical device developer.
+🧬 Biomedical Engineering student exploring the intersection of medicine and technology  
+🎓 Studying **Biomedical Engineering** at Universitas Gadjah Mada, Indonesia  
+🔬 Building projects around **biosensors, medical devices, and health tech**  
+🌱 Currently learning about **signal processing** and **bioinformatics**  
+💬 Always open to collaborate on health-tech and research projects!
 
-[![FOLLOW](https://img.shields.io/github/followers/yourusername?label=FOLLOW&style=for-the-badge&color=555555&logoColor=white)](https://github.com/yourusername)
-[![STARS](https://img.shields.io/github/stars/yourusername?label=STARS&style=for-the-badge&color=ffd700&logoColor=black)](https://github.com/yourusername?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-izzudin-yusuf-65b849373)
+---
+
+[![FOLLOW](https://img.shields.io/github/followers/yourusername?label=FOLLOW&style=for-the-badge&color=555555&logoColor=white)](https://github.com/HyoSeop)
+[![STARS](https://img.shields.io/github/stars/yourusername?label=STARS&style=for-the-badge&color=ffd700&logoColor=black)](https://github.com/HyoSeop1488?tab=repositories)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HyoSeop1488)
+
+---
+
+## 📊 Hyo Seop's GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/HyoSeop1488)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/HyoSeop)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)](https://github.com/HyoSeop)
 
 ---
 
@@ -28,22 +44,11 @@ I'm a biomedical engineering student, health-tech enthusiast, biology lover, and
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Studying **Biomedical Engineering** at Universitas Gadjah Mada
-- 🔭 Currently working on **-**
-- 🌱 Currently learning **signal processing & bioinformatics**
-- 💡 Passionate about **medical devices, health tech, and biosensors**
-- 📫 Reach me at: **mizzudinyusuf@gmail.com**
-
----
-
 ## ⭐ Fun Facts
 
 - 🫀 Fascinated by how the human body works
 - 🔧 I enjoy debugging circuits as much as debugging code
-- 📚 Hobbies: reading research papers, tinkering with hardware, undertaking any projects
-
+- 📚 Hobbies: reading research papers, tinkering with hardware, undertaking any project
 </td>
 
 </tr>
