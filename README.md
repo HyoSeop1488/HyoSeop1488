@@ -17,7 +17,7 @@
 
 ---
 
-[![FOLLOW](https://img.shields.io/github/followers/yourusername?label=FOLLOW&style=for-the-badge&color=555555&logoColor=white)](https://github.com/HyoSeop)
+[![FOLLOW](https://img.shields.io/github/followers/yourusername?label=FOLLOW&style=for-the-badge&color=555555&logoColor=white)](https://github.com/HyoSeop1488)
 [![STARS](https://img.shields.io/github/stars/yourusername?label=STARS&style=for-the-badge&color=ffd700&logoColor=black)](https://github.com/HyoSeop1488?tab=repositories)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HyoSeop1488)
 
